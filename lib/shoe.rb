@@ -33,6 +33,10 @@ class Shoe
     end
     
     def condition
+      if tattered
+        puts
+      else old 
+        puts 
       puts "says that the shoe has been repaired"
     
     end
