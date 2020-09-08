@@ -8,7 +8,8 @@ class Shoe
   end
     
   
-  def condition=(new)
+  def cobble
+    
       
     end
   end
