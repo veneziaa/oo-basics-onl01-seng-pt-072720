@@ -9,7 +9,7 @@ class Shoe
     
   
   def cobble
-    
+    puts "Y"
       
     end
   end
