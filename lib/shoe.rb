@@ -36,9 +36,8 @@ class Shoe
       if tattered
         puts
       else old 
-        puts 
-      puts "says that the shoe has been repaired"
-    
+        puts "makes the shoe\'s condition new"
+      end
     end
     
 end
