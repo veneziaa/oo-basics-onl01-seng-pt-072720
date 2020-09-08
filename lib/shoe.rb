@@ -23,4 +23,6 @@ class Shoe
     def size 
       @size
     end
+    
+    def
 end
