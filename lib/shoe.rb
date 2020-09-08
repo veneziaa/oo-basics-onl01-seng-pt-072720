@@ -34,7 +34,7 @@ class Shoe
     
     def condition
       if tattered
-        puts
+        puts "Your shoe is as good as new!""
       else old 
         puts "makes the shoe\'s condition new"
       end
