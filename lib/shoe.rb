@@ -32,7 +32,7 @@ class Shoe
       @material
     end
     
-    def condition=(condition)
-      @condition=condition
+    def condition=(tattered,old)
+      
     end
   end
