@@ -33,7 +33,7 @@ class Shoe
     end
     
     def condition
-      puts ""
+      puts "says that the shoe has been repaired"
     
     end
     
